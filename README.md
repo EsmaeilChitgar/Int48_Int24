@@ -32,3 +32,4 @@ output: size is: 16
 ```
 
 By copying the these two class patterns, you can create your costume classes which doesn't exist in the primary types list.
+{Simle Change for test pull request}
